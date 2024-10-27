@@ -1,0 +1,11 @@
+C:\Users\Alberth\source\repos\GestiónRecursosHumanos\proyecto1.Domain\bin\Debug\net8.0\proyecto1.Domain.deps.json
+C:\Users\Alberth\source\repos\GestiónRecursosHumanos\proyecto1.Domain\bin\Debug\net8.0\proyecto1.Domain.dll
+C:\Users\Alberth\source\repos\GestiónRecursosHumanos\proyecto1.Domain\bin\Debug\net8.0\proyecto1.Domain.pdb
+C:\Users\Alberth\source\repos\GestiónRecursosHumanos\proyecto1.Domain\obj\Debug\net8.0\proyecto1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alberth\source\repos\GestiónRecursosHumanos\proyecto1.Domain\obj\Debug\net8.0\proyecto1.Domain.AssemblyInfoInputs.cache
+C:\Users\Alberth\source\repos\GestiónRecursosHumanos\proyecto1.Domain\obj\Debug\net8.0\proyecto1.Domain.AssemblyInfo.cs
+C:\Users\Alberth\source\repos\GestiónRecursosHumanos\proyecto1.Domain\obj\Debug\net8.0\proyecto1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alberth\source\repos\GestiónRecursosHumanos\proyecto1.Domain\obj\Debug\net8.0\proyecto1.Domain.dll
+C:\Users\Alberth\source\repos\GestiónRecursosHumanos\proyecto1.Domain\obj\Debug\net8.0\refint\proyecto1.Domain.dll
+C:\Users\Alberth\source\repos\GestiónRecursosHumanos\proyecto1.Domain\obj\Debug\net8.0\proyecto1.Domain.pdb
+C:\Users\Alberth\source\repos\GestiónRecursosHumanos\proyecto1.Domain\obj\Debug\net8.0\ref\proyecto1.Domain.dll
